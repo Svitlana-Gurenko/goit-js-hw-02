@@ -1,3 +1,4 @@
+'use strict';
 function formatMessage(message, maxLength) {
   let i = message.length;
   if (i <= maxLength) {
